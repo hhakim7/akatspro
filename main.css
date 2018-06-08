@@ -1,0 +1,64 @@
+
+.navbar{
+background-color : #1b2021;
+margin-right: -5px;
+font-size: mask;
+
+}
+.bg-1{
+margin-top: 56px;
+background-color: #1c2022;
+color : white;
+} 
+p{
+font-family: mosk;
+font-size: 20px;
+}
+h1{
+text-align: center;
+font-family: mosk;
+color: white;
+}
+h2{
+text-align: center;
+font-family: mosk;
+color: white;
+font-size: 25px;
+}
+h3{
+text-align: center;
+font-family: mosk;
+font-size: 18px;
+}
+.bg-2{
+margin-top: 1px;
+background-color: #1b2021;
+color : white;
+}  
+.bg-21{
+text-align: left;
+}  
+.bg-22{
+text-align: right;
+} 
+.bg-3{
+margin-top: 1px;
+background-color: #262b2d;
+} 
+.bg-4{
+margin-top: 1px;
+background-color: #514b4d;
+text-align: center;
+font-family: mosk;
+font-size: 20px;
+
+} 
+a{
+color: white;
+font-size: 16px;
+}
+.bg-5{
+margin-top: 1px;
+background-color: black;
+text-align: center;
+}
